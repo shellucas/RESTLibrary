@@ -18,6 +18,6 @@ class MainTest {
     void testMethod() {
     }
 
-    
+
 
 }
